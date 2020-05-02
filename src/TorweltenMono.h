@@ -1,7 +1,7 @@
 #ifndef _TORWELTENMONO_H
 #define _TORWELTENMONO_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t TorweltenMono10[];
